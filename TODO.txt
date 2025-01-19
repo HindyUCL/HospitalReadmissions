@@ -1,5 +1,0 @@
-- Fix the problem of Train, Validation, and test 
-- Double check whether the LASSO and PCA steps are good for performance, is it necessary to do it? 
-- Double check how the temporal datasets are created 
-- Double chekc why the LSTM model is not performing very well
-- Feature Engineer a "number_previous_readmissions" and average each other column, using a geometric average" and then retrain the best models and see how they do. 
